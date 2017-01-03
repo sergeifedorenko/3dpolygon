@@ -1,0 +1,20 @@
+From 6edc980410cb8809fb8c5de80ff5911f40b1cf96 Mon Sep 17 00:00:00 2001
+From: sergeifedorenko <sergei.fedorenko.n@gmail.com>
+Date: Tue, 3 Jan 2017 15:28:06 +0300
+Subject: [PATCH] 11
+
+---
+ upstream-file-bla | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/upstream-file-bla b/upstream-file-bla
+index fe48163..44f3996 100644
+--- a/upstream-file-bla
++++ b/upstream-file-bla
+@@ -1 +1,2 @@
+ upstream-file-bla
++111
+\ No newline at end of file
+-- 
+2.10.1.windows.1
+
